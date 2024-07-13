@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Connor-McQuaid
-- 👀 I’m interested in Python, JavaScript, Unreal, HTML/CSS
+- 👀 I’m interested in Python, JavaScript, HTML/CSS and video editing 
 - 🌱 I’m currently learning Python at NAT 5 level
 <!---
 Connor-McQuaid/Connor-McQuaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
